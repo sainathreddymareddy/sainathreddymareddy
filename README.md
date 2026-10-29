@@ -1,94 +1,100 @@
-## Hi  👋
-# Mareddy Sainath Reddy
-**ARTIFICIAL INTELLIEGENCE AND MACHINE LEARNING** 
+<h1 align="center">Hi 👋, I'm Sainath Reddy</h1>
 
-## About Me
-- I completed my under graduation in JAIN UNIVERSITY.
-- I am very much intrested in traveling .Having good survivng skills.
-- Beginner at AI, and tech skills
+<h3 align="center">Aspiring Data Engineer | Cloud Computing | AI & Machine Learning</h3>
 
-
-## Skill stack
-<!-- Skill icons provided by skill-icons. Full icon list and names:
-     https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,git,github,terraform,python,typescript,nodejs,javascript,java,HTML,SQL=light)](https://skillicons.dev)
-
-*Also comfortable with*: SQL (BigQuery, Postgres), CI/CD pipelines, Networking and Security (VPC, IAM), Basic ML workflows.
-
+<p align="center">
+  Python • SQL • AWS • Azure • Linux
+</p>
 
 ---
 
-## Projects - showcase
+## 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">
-        <img src="http://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/ai-llm-deepseek_gggggggg"
-             alt="DeepSeek AI Project"
-             style="width:100%; height:200px; object-fit:cover;"/>
-      </a>
-      <br/>
-      <b>DeepSeek AI Chatbot</b><br/>
-      <sub>Built an LLM-powered chatbot that answers domain-specific questions in real time.</sub><br/>
-      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">Repo</a>
-      <br/>
-      <sub>Tags: AI, LLMs, Prompt Engineering</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">
-        <img src="https://learn.nextwork.org/projects/static/aws-devops-vscode/architecture-complete.png"
-             alt="CI/CD Pipeline Project"
-             style="width:100%; height:200px; object-fit:cover;"/>
-      </a>
-      <br/>
-      <b>Cloud CI/CD Pipeline</b><br/>
-      <sub>Automated deployment of a web app using GitHub Actions and AWS ECS.</sub><br/>
-      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">Repo</a>
-      <br/>
-      <sub>Tags: DevOps, Docker, GitHub Actions</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">
-        <img src="https://camo.githubusercontent.com/6b6af843159b1de02c9a7ae1908b05a29b1c2383077f1c3d38a08ac7889c81bd/687474703a2f2f6c6561726e2e6e657874776f726b2e6f72672f68617070795f6d61726f6f6e5f6a6f6c6c795f7265645f63757272616e742f75706c6f6164732f6177732d6e6574776f726b732d7670635f3266616366393237"
-             alt="VPC Networking Project"
-             style="width:100%; height:200px; object-fit:cover;"/>
-      </a>
-      <br/>
-      <b>Secure AWS VPC</b><br/>
-      <sub>Designed and deployed a custom VPC with public/private subnets and routing.</sub><br/>
-      🔗 <a href="https://github.com/KILARI RAVI SANKAR/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">Repo</a>
-      <br/>
-      <sub>Tags: Networking, AWS, Security</sub>
-    </td>
-  </tr>
-</table>
+- 🎓 Background in Artificial Intelligence and Machine Learning from Jain University.
+- 💻 Interested in Data Engineering, Cloud Computing, and AI/ML.
+- ☁️ Learning to build and understand cloud-based data solutions using AWS and Azure.
+- 🐍 Practicing Python, SQL, Linux, and data processing.
+- 🚀 Focused on building practical projects and improving my technical skills.
 
 ---
 
-## Stats
-<!-- Stats card by anuraghazra/github-readme-stats
-     Customization guide:
-     - Hide private contributions: &count_private=true|false
-     - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
-     - Show icons: &show_icons=true
-     Docs: https://github.com/anuraghazra/github-readme-stats -->
-![Maximus' GitHub stats](https://github-readme-stats.vercel.app/api?username=SainathReddyMareddy&show_icons=true&theme=gruvbox)
+## 🛠️ Technical Skills
+
+**Programming Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+</p>
+
+**Cloud & Data Engineering**
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"/>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/>
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</p>
 
 ---
 
-## Links
-<!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
-     https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
-- [*Portfolio*](https://learn.nextwork.org/happy_maroon_jolly_red_currant/portfolio)
-- [*Contact*](mailto.ravisankarkilari@gmail.com)
+## 🚀 Featured Projects
 
-<a href="https://www.linkedin.com/feed/" target="blank">
-  <img src="https://www.linkedin.com/in/m-sainath-reddy-335aa62a3/" />
-</a>
-<a href="https://www.instagram.com/sainath.reddy.11/?next=%2F&hl=en/" target="blank">
-  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-</a>
+### 1. Facial Recognition Attendance System
 
-<!-- Optional: fun GIF. Consider replacing with contribution streak or removing for a tighter, more professional finish. -->
-![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXh2ZzdlYWZndHl2dWcyb2RveHlpYzhsand5YmRmaHRwdXhlcGZhZyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/l3q2wJsC23ikJg9xe/giphy.gif)
+A machine-learning-based application designed to identify and verify individuals and automate attendance recording.
+
+**Technologies:** Python, OpenCV, Face Recognition, Machine Learning
+
+### 2. Data Cleaning and Transformation
+
+A data processing project focused on cleaning structured data, handling missing values, removing duplicates, and transforming datasets.
+
+**Technologies:** Python, SQL, PySpark
+
+### 3. AWS Data Engineering Pipeline
+
+A cloud-based data pipeline project exploring data storage, transformation, and analytics using AWS services.
+
+**Technologies:** Amazon S3, AWS Glue, Amazon Redshift, SQL
+
+> Add links to the actual project repositories and mark unfinished projects as in progress.
+
+---
+
+## 📚 Currently Learning
+
+- Advanced SQL and query optimization
+- Python for data processing
+- AWS and Azure cloud services
+- Data pipelines and ETL workflows
+- Apache Spark and PySpark
+
+---
+
+## 🎯 Career Objective
+
+To develop reliable data pipelines and cloud-based solutions while applying programming, data processing, and machine learning skills to practical problems.
+
+---
+
+## 📫 Connect With Me
+
+- **GitHub:** [sainathreddymareddy](https://github.com/sainathreddymareddy)
+- **LinkedIn:** Add your LinkedIn profile URL here.
+- **Portfolio:** Add your portfolio URL here when available.
+
+---
+
+<p align="center">
+  <i>Learning continuously. Building consistently. Improving every day.</i>
+</p>
